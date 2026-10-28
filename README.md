@@ -16,13 +16,14 @@ Analizzare criticamente le dispense; distinguere risultati empirici, modelli teo
 - Non trattare il consenso fra IA come validazione scientifica.
 - Conservare originali, rapporti e tracciabilità; completare i controlli aperti prima del libro definitivo.
 
-## Materiali
+## Allegati originali archiviati
 
-`materiali/` contiene i quattro allegati originali. `report/` contiene il rapporto critico e il confronto con Argon. `evidenze/` contiene inventario e registro della ricerca. Le revisioni sono narrative e non equivalgono a una revisione sistematica.
+- [Guida alle abilità di studio v2](materiali/Guida_abilita_studio_v2.docx)
+- [Piano universitario v2](materiali/Piano_universitario_v2.docx)
+- [College Success — sintesi](materiali/college_success_sintesi.md)
+- [Leggere per sapere — sintesi](materiali/leggere_per_sapere_sintesi.md)
 
-## Stato
-
-Audit del 28 ottobre 2026: 127 osservazioni sulle dispense e 25 controlli sul rapporto Argon, con 72 riferimenti utilizzati a livelli di accesso diversi. Il numero di osservazioni comprende conferme e questioni aperte; non indica altrettanti errori.
+I file sono conservati senza modifiche al contenuto. I rapporti di revisione nuovi non sono inclusi in questo archivio pubblico.
 
 ## Provenienza
 
